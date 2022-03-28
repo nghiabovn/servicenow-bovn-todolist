@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="To Do" max_length="40" name="x_794571_to_do_to_do" sizeclass="11" type="collection">
+        <element label="Assigned to" max_length="32" name="assigned_to" reference="sys_user" type="reference"/>
+        <element label="Due date" max_length="40" name="due_date" type="glide_date"/>
+        <element choice="3" default="important" label="Importance" max_length="40" name="importance" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Not important" sequence="10" value="not_important"/>
+                <element inactive_on_update="false" label="Important" sequence="20" value="important"/>
+                <element inactive_on_update="false" label="Very important" sequence="30" value="very_important"/>
+            </choice>
+        </element>
+        <element choice="3" default="not_started" label="Progress" max_length="40" name="progress" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Not Started" sequence="10" value="not_started"/>
+                <element inactive_on_update="false" label="In Progress" sequence="20" value="in_progress"/>
+                <element inactive_on_update="false" label="Done" sequence="30" value="done"/>
+                <element inactive_on_update="false" label="Canceled" sequence="40" value="canceled"/>
+            </choice>
+        </element>
+        <element label="Project" max_length="32" name="project" reference="x_794571_to_do_project" type="reference"/>
+        <element label="Send reminder" max_length="40" name="send_reminder" type="boolean"/>
+        <element display="true" label="To do item" max_length="150" name="to_do_item" type="string"/>
+        <index name="index">
+            <element name="project"/>
+        </index>
+        <index name="index2">
+            <element name="assigned_to"/>
+        </index>
+    </element>
+</database>

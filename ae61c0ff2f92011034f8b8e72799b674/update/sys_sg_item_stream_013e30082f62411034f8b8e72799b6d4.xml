@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_stream">
+    <sys_sg_item_stream action="INSERT_OR_UPDATE">
+        <data_item display_value="My To Dos Data Item">643e30082f62411034f8b8e72799b629</data_item>
+        <interleaved_field/>
+        <name>0d3e30082f62411034f8b8e72799b6cf Item Stream</name>
+        <sys_class_name>sys_sg_item_stream</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-03-25 06:51:49</sys_created_on>
+        <sys_id>013e30082f62411034f8b8e72799b6d4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>0d3e30082f62411034f8b8e72799b6cf Item Stream</sys_name>
+        <sys_package display_value="To do" source="x_794571_to_do">ae61c0ff2f92011034f8b8e72799b674</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="To do">ae61c0ff2f92011034f8b8e72799b674</sys_scope>
+        <sys_update_name>sys_sg_item_stream_013e30082f62411034f8b8e72799b6d4</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-03-25 06:51:49</sys_updated_on>
+        <table/>
+    </sys_sg_item_stream>
+</record_update>

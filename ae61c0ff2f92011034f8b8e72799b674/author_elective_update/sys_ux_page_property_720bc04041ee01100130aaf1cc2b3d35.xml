@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="DELETE">
+        <choices/>
+        <description>L1 Configuration	</description>
+        <name>chrome_toolbar</name>
+        <page display_value="">ba0bc040c1ee0110630a1dc8f7d04f34</page>
+        <required_translations>[ {
+  "message" : "Analytics Center",
+  "comment" : ""
+}, {
+  "message" : "Home",
+  "comment" : ""
+}, {
+  "message" : "List",
+  "comment" : ""
+} ]</required_translations>
+        <route/>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-03-25 03:08:19</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>720bc04041ee01100130aaf1cc2b3d35</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>chrome_toolbar</sys_name>
+        <sys_package display_value="To do" source="x_794571_to_do">ae61c0ff2f92011034f8b8e72799b674</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="To do">ae61c0ff2f92011034f8b8e72799b674</sys_scope>
+        <sys_update_name>sys_ux_page_property_720bc04041ee01100130aaf1cc2b3d35</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-03-25 03:08:19</sys_updated_on>
+        <type>json</type>
+        <unique_name>x_794571_to_do.ba0bc040c1ee0110630a1dc8f7d04f34.root.chrome_toolbar</unique_name>
+        <value>[&#13;
+   {&#13;
+      "id":"home",&#13;
+      "label": {&#13;
+              "message": "Home",&#13;
+               "translatable": true&#13;
+        },&#13;
+      "icon":"home-outline",&#13;
+      "viewportInfo":{&#13;
+         &#13;
+      },&#13;
+      "routeInfo":{&#13;
+         "route":"home"&#13;
+      },&#13;
+      "group":"top",&#13;
+      "badge":{&#13;
+         &#13;
+      },&#13;
+      "presence":{&#13;
+         &#13;
+      },&#13;
+      "availability":{&#13;
+         &#13;
+      }&#13;
+   },&#13;
+   {&#13;
+      "id":"list",&#13;
+      "label": {&#13;
+              "message": "List",&#13;
+               "translatable": true&#13;
+        },&#13;
+      "icon":"list-outline",&#13;
+      "viewportInfo":{&#13;
+         &#13;
+      },&#13;
+      "routeInfo":{&#13;
+         "route":"list"&#13;
+      },&#13;
+      "group":"top",&#13;
+      "badge":{&#13;
+         &#13;
+      },&#13;
+      "presence":{&#13;
+         &#13;
+      },&#13;
+      "availability":{&#13;
+         &#13;
+      }&#13;
+   },&#13;
+ {&#13;
+      "id":"analytics-center",&#13;
+      "label": {&#13;
+              "message": "Analytics Center",&#13;
+               "translatable": true&#13;
+        },&#13;
+      "icon":"analytics-center-outline",&#13;
+      "viewportInfo":{&#13;
+         &#13;
+      },&#13;
+      "routeInfo":{&#13;
+         "route":"analytics-center"&#13;
+      },&#13;
+      "group":"top",&#13;
+      "badge":{&#13;
+         &#13;
+      },&#13;
+      "presence":{&#13;
+         &#13;
+      },&#13;
+      "availability":{&#13;
+         &#13;
+      }&#13;
+   }&#13;
+]</value>
+    </sys_ux_page_property>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="To do">ae61c0ff2f92011034f8b8e72799b674</application>
+        <file_path/>
+        <instance_id>00613ae9db3913847e55d5b0cf961941</instance_id>
+        <instance_name>dev57998</instance_name>
+        <name>sys_ux_page_property_720bc04041ee01100130aaf1cc2b3d35</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property"><sys_ux_page_property action="INSERT_OR_UPDATE"><choices/><description>L1 Configuration	</description><name>chrome_toolbar</name><page display_value="">ba0bc040c1ee0110630a1dc8f7d04f34</page><required_translations>[ {
+  "message" : "Analytics Center",
+  "comment" : ""
+}, {
+  "message" : "Home",
+  "comment" : ""
+}, {
+  "message" : "List",
+  "comment" : ""
+} ]</required_translations><route/><suffix/><sys_class_name>sys_ux_page_property</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-03-25 03:08:19</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>global</sys_domain_path><sys_id>720bc04041ee01100130aaf1cc2b3d35</sys_id><sys_mod_count>0</sys_mod_count><sys_name>chrome_toolbar</sys_name><sys_package display_value="To do" source="x_794571_to_do">ae61c0ff2f92011034f8b8e72799b674</sys_package><sys_policy/><sys_scope display_value="To do">ae61c0ff2f92011034f8b8e72799b674</sys_scope><sys_update_name>sys_ux_page_property_720bc04041ee01100130aaf1cc2b3d35</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-03-25 03:08:19</sys_updated_on><type>json</type><unique_name>x_794571_to_do.ba0bc040c1ee0110630a1dc8f7d04f34.root.chrome_toolbar</unique_name><value>[&#13;
+   {&#13;
+      "id":"home",&#13;
+      "label": {&#13;
+              "message": "Home",&#13;
+               "translatable": true&#13;
+        },&#13;
+      "icon":"home-outline",&#13;
+      "viewportInfo":{&#13;
+         &#13;
+      },&#13;
+      "routeInfo":{&#13;
+         "route":"home"&#13;
+      },&#13;
+      "group":"top",&#13;
+      "badge":{&#13;
+         &#13;
+      },&#13;
+      "presence":{&#13;
+         &#13;
+      },&#13;
+      "availability":{&#13;
+         &#13;
+      }&#13;
+   },&#13;
+   {&#13;
+      "id":"list",&#13;
+      "label": {&#13;
+              "message": "List",&#13;
+               "translatable": true&#13;
+        },&#13;
+      "icon":"list-outline",&#13;
+      "viewportInfo":{&#13;
+         &#13;
+      },&#13;
+      "routeInfo":{&#13;
+         "route":"list"&#13;
+      },&#13;
+      "group":"top",&#13;
+      "badge":{&#13;
+         &#13;
+      },&#13;
+      "presence":{&#13;
+         &#13;
+      },&#13;
+      "availability":{&#13;
+         &#13;
+      }&#13;
+   },&#13;
+ {&#13;
+      "id":"analytics-center",&#13;
+      "label": {&#13;
+              "message": "Analytics Center",&#13;
+               "translatable": true&#13;
+        },&#13;
+      "icon":"analytics-center-outline",&#13;
+      "viewportInfo":{&#13;
+         &#13;
+      },&#13;
+      "routeInfo":{&#13;
+         "route":"analytics-center"&#13;
+      },&#13;
+      "group":"top",&#13;
+      "badge":{&#13;
+         &#13;
+      },&#13;
+      "presence":{&#13;
+         &#13;
+      },&#13;
+      "availability":{&#13;
+         &#13;
+      }&#13;
+   }&#13;
+]</value></sys_ux_page_property></record_update>]]></payload>
+        <payload_hash>2000312399</payload_hash>
+        <record_name>chrome_toolbar</record_name>
+        <reverted_from/>
+        <source>2eb968822f12011034f8b8e72799b653</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by/>
+        <sys_created_on>2022-03-19 00:14:29</sys_created_on>
+        <sys_id>0e9d90002f22411034f8b8e72799b625</sys_id>
+        <sys_mod_count/>
+        <sys_recorded_at>17f9f868a880000000</sys_recorded_at>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <type>UX Page Property</type>
+        <update_guid>ca9d9000162241103265a02d496e5325</update_guid>
+        <update_guid_history>ca9d9000162241103265a02d496e5325:2000312399</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-03-25 04:29:21</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_page_property">sys_ux_page_property</sys_db_object>
+        <sys_id>070e023da4d94d988b3d7accb17eea40</sys_id>
+        <sys_metadata>720bc04041ee01100130aaf1cc2b3d35</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>chrome_toolbar</sys_name>
+        <sys_package display_value="To do" source="x_794571_to_do">ae61c0ff2f92011034f8b8e72799b674</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="To do">ae61c0ff2f92011034f8b8e72799b674</sys_scope>
+        <sys_scope_delete display_value="">0b9a0f243a5b409aa219be87385f5c39</sys_scope_delete>
+        <sys_update_name>sys_ux_page_property_720bc04041ee01100130aaf1cc2b3d35</sys_update_name>
+        <sys_update_version display_value="sys_ux_page_property_720bc04041ee01100130aaf1cc2b3d35">0e9d90002f22411034f8b8e72799b625</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-03-25 04:29:21</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

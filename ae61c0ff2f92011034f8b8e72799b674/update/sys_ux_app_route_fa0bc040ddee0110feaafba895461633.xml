@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_route">
+    <sys_ux_app_route action="INSERT_OR_UPDATE">
+        <app_config display_value="To Do Workspace Config">b20bc0403aee0110666c07d392218332</app_config>
+        <description/>
+        <fields/>
+        <icon/>
+        <name>All Dashboards</name>
+        <optional_parameters/>
+        <order>0</order>
+        <parent_macroponent display_value="Agent Workspace App Shell">c276387cc331101080d6d3658940ddd2</parent_macroponent>
+        <parent_macroponent_composition_element_id/>
+        <route_type>all-dashboards</route_type>
+        <screen_type display_value="All Dashboards">ba0bc040c8ee011006ba837d76c42c33</screen_type>
+        <sys_class_name>sys_ux_app_route</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-03-25 03:08:20</sys_created_on>
+        <sys_id>fa0bc040ddee0110feaafba895461633</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>All Dashboards</sys_name>
+        <sys_package display_value="To do" source="x_794571_to_do">ae61c0ff2f92011034f8b8e72799b674</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="To do">ae61c0ff2f92011034f8b8e72799b674</sys_scope>
+        <sys_update_name>sys_ux_app_route_fa0bc040ddee0110feaafba895461633</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-03-25 03:08:20</sys_updated_on>
+    </sys_ux_app_route>
+    <sys_translated_text action="delete_multiple" query="documentkey=fa0bc040ddee0110feaafba895461633"/>
+</record_update>

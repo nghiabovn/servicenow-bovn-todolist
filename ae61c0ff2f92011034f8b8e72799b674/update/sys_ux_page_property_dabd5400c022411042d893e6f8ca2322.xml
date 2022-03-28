@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="INSERT_OR_UPDATE">
+        <choices/>
+        <description/>
+        <name>listConfigId</name>
+        <page display_value="To do Workspace">92bd5400de224110db6f050744a25b22</page>
+        <required_translations>[]</required_translations>
+        <route/>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-03-25 04:29:55</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>dabd5400c022411042d893e6f8ca2322</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>listConfigId</sys_name>
+        <sys_package display_value="To do" source="x_794571_to_do">ae61c0ff2f92011034f8b8e72799b674</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="To do">ae61c0ff2f92011034f8b8e72799b674</sys_scope>
+        <sys_update_name>sys_ux_page_property_dabd5400c022411042d893e6f8ca2322</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-03-25 04:29:56</sys_updated_on>
+        <type>string</type>
+        <unique_name>x_794571_to_do.92bd5400de224110db6f050744a25b22.root.listConfigId</unique_name>
+        <value>eabd54002f22411034f8b8e72799b66c</value>
+    </sys_ux_page_property>
+    <sys_translated_text action="delete_multiple" query="documentkey=dabd5400c022411042d893e6f8ca2322"/>
+</record_update>

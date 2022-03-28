@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_list">
+    <sys_ux_list action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category display_value="To Do">f2bd54002f22411034f8b8e72799b673</category>
+        <columns>assigned_to,due_date,importance,progress,project,send_reminder,to_do_item</columns>
+        <condition/>
+        <configuration display_value="To do Workspace_menu_config">eabd54002f22411034f8b8e72799b66c</configuration>
+        <group_by_column/>
+        <groups/>
+        <list_attributes/>
+        <order>50</order>
+        <roles/>
+        <sys_class_name>sys_ux_list</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-03-25 04:29:56</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>febd54002f22411034f8b8e72799b674</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>All</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="To do" source="x_794571_to_do">ae61c0ff2f92011034f8b8e72799b674</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="To do">ae61c0ff2f92011034f8b8e72799b674</sys_scope>
+        <sys_update_name>sys_ux_list_febd54002f22411034f8b8e72799b674</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-03-25 04:29:56</sys_updated_on>
+        <table>x_794571_to_do_to_do</table>
+        <title>All</title>
+    </sys_ux_list>
+</record_update>
